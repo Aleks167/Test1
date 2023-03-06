@@ -2,7 +2,7 @@
 #include <vector>
 #include <future>
 
-using namespace std;
+using namespace sкtd;
 double mul1(const vector <double> & vec, const vector<vector<double>>& matr2, size_t j)
 {
     double sum=0;
